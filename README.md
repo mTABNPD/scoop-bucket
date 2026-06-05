@@ -7,6 +7,7 @@ mTAB's Scoop bucket. Hosts manifests for mTAB-internal CLIs distributed publicly
 ```
 scoop bucket add mtab https://github.com/mTABNPD/scoop-bucket
 scoop install mtab/halo
+scoop install mtab/pde
 ```
 
 The `mtab` short bucket name is local to your scoop install — pick whatever you like; the URL is what matters.
@@ -15,6 +16,7 @@ The `mtab` short bucket name is local to your scoop install — pick whatever yo
 
 ```
 scoop update halo
+scoop update pde
 ```
 
 ## Available manifests
@@ -22,6 +24,7 @@ scoop update halo
 | Manifest | Description | Source |
 |---|---|---|
 | `halo` | CLI for the Halo platform | [mTABNPD/halo-platform-cli](https://github.com/mTABNPD/halo-platform-cli) |
+| `pde` | Internal mTAB developer CLI | [mTABNPD/mtab-pde-cli](https://github.com/mTABNPD/mtab-pde-cli) |
 
 ## Platforms
 
