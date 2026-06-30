@@ -1,10 +1,10 @@
 {
-  "version": "0.2.44",
+  "version": "0.2.54",
   "description": "CLI for the Halo platform",
   "homepage": "https://github.com/mTABNPD/halo-platform-cli",
   "license": "Proprietary",
-  "url": "https://github.com/mTABNPD/scoop-bucket/releases/download/v0.2.44/halo-windows-x64.zip",
-  "hash": "f9d78d72f2b7754352f027bced81b27d31e7ec9ad40e80c05d495bcba3f326e1",
+  "url": "https://github.com/mTABNPD/scoop-bucket/releases/download/v0.2.54/halo-windows-x64.zip",
+  "hash": "cdad0f91ece317eeffd27c7c861178598fb540c4f75beb7125e5db2a566bdf70",
   "bin": "halo.exe",
   "checkver": {
     "github": "https://github.com/mTABNPD/halo-platform-cli"
