@@ -1,10 +1,10 @@
 {
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "Internal mTAB developer CLI",
   "homepage": "https://github.com/mTABNPD/mtab-pde-cli",
   "license": "Proprietary",
-  "url": "https://github.com/mTABNPD/scoop-bucket/releases/download/pde-v0.1.12/pde-windows-x64.zip",
-  "hash": "c5b7b362543d6f0a98e90412a3735a059c3039ffeffc62c8c42e3f31362e465d",
+  "url": "https://github.com/mTABNPD/scoop-bucket/releases/download/pde-v0.1.13/pde-windows-x64.zip",
+  "hash": "6dd917271c7aa988cf7fd55c57d4aa7ae732ae80c85af7228a5a674cf8e9ac5d",
   "bin": "pde.exe",
   "checkver": {
     "github": "https://github.com/mTABNPD/mtab-pde-cli"
