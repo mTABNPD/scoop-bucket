@@ -28,4 +28,4 @@ scoop update pde
 
 ## Platforms
 
-Currently Windows 10 21H2+ / Server 2019+ x64 only. The binaries are not yet Authenticode-signed — running from a terminal works without prompts, but Explorer double-clicks may show a SmartScreen warning until signing is wired up.
+Currently Windows 10 21H2+ / Server 2019+ x64 only. Both binaries are Authenticode-signed (publisher: *mTAB LLC*, via DigiCert KeyLocker), so Windows shows a verified publisher rather than an "unknown publisher" SmartScreen warning.
